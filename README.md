@@ -1,2 +1,3 @@
 # redux-toolkit-project-practice
-Proyecto de practica para configurar redux toolkit.
+Esta es una simple task app donde se aplica el redux toolkit.
+Dejare algunas impresiones mientras realizo la app. 
